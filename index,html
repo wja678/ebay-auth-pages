@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>listing-engine auth pages</title>
+</head>
+<body>
+  <h1>listing-engine auth pages</h1>
+  <p>This site hosts the minimal pages needed for eBay OAuth consent flow.</p>
+  <ul>
+    <li><a href="/privacy.html">Privacy Policy</a></li>
+    <li><a href="/ebay/auth/accepted.html">Auth Accepted</a></li>
+    <li><a href="/ebay/auth/declined.html">Auth Declined</a></li>
+  </ul>
+</body>
+</html>
